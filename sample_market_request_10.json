@@ -1,0 +1,15 @@
+{
+  "market": "KRX",
+  "sub_data": [
+    { "tx_id": "tx-0001", "payload": { "code": "005930", "price": 84500, "volume": 120000 } },
+    { "tx_id": "tx-0002", "payload": { "code": "000660", "price": 201500, "volume": 98000 } },
+    { "tx_id": "tx-0003", "payload": { "code": "035420", "price": 178000, "volume": 43000 } },
+    { "tx_id": "tx-0004", "payload": { "code": "051910", "price": 312000, "volume": 25000 } },
+    { "tx_id": "tx-0005", "payload": { "code": "207940", "price": 826000, "volume": 8000 } },
+    { "tx_id": "tx-0006", "payload": { "code": "068270", "price": 191000, "volume": 27000 } },
+    { "tx_id": "tx-0007", "payload": { "code": "323410", "price": 112000, "volume": 39000 } },
+    { "tx_id": "tx-0008", "payload": { "code": "105560", "price": 71500, "volume": 55000 } },
+    { "tx_id": "tx-0009", "payload": { "code": "055550", "price": 42300, "volume": 87000 } },
+    { "tx_id": "tx-0010", "payload": { "code": "096770", "price": 156800, "volume": 21000 } }
+  ]
+}
